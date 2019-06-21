@@ -3,7 +3,8 @@
 	"suppress_word_completions":true,
 	"suppress_explicit_completions":true,
 	"complete_parameters":true,
-	"auto_formatting": true,
+	"auto_formatting": false,
+	"anaconda_linting": false,
 	"pep8_ignore": ["E501", "W292", "E303", "W391", "E225", "E302", "W293", "E402"],
 	"pyflakes_explicit_ignore":
 		[
