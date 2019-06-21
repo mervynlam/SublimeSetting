@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"ConvertToUTF8",
+		"Package Control",
+		"SublimeREPL"
+	]
+}

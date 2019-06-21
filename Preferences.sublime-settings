@@ -1,0 +1,13 @@
+{
+	"default_encoding": "UTF-8",
+	"font_face": "Source_Code_Pro-雅黑 混合体",
+	"font_options":
+	[
+		"no_italic"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true
+}

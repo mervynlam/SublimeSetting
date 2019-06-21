@@ -1,0 +1,12 @@
+{
+	"python_interpreter":"D:\\Python34\\python.exe", // 你的python路径
+	"suppress_word_completions":true,
+	"suppress_explicit_completions":true,
+	"complete_parameters":true,
+	"auto_formatting": true,
+	"pep8_ignore": ["E501", "W292", "E303", "W391", "E225", "E302", "W293", "E402"],
+	"pyflakes_explicit_ignore":
+		[
+		"UnusedImport"
+		],
+}
