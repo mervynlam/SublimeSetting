@@ -29,5 +29,10 @@
             "id": "repl_python",
             "file": "config/Python/Main.sublime-menu"
         }
+    },
+    {
+        "keys": ["alt+m"],
+        "command": "markdown_preview",
+        "args": {"target": "browser", "parser":"markdown"}
     }
 ]

@@ -5,11 +5,12 @@
 	],
 	"installed_packages":
 	[
-		"Anaconda",
 		"BracketHighlighter",
 		"ChineseLocalizations",
 		"ConvertToUTF8",
-		"Package Control",
-		"SublimeREPL"
+		"LiveReload",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Package Control"
 	]
 }
