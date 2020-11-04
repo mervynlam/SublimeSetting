@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\*\shell\SublimeText3]
-@="用 SublimeText3 打开"
+@="鐢⊿ublime3鎵撳紑"
 "Icon"="D:\\Program Files\\Sublime Text\\sublime_text.exe,0"
 
 [HKEY_CLASSES_ROOT\*\shell\SublimeText3\command]
@@ -8,7 +8,7 @@ Windows Registry Editor Version 5.00
 
 
 [HKEY_CLASSES_ROOT\Directory\shell\SublimeText3]
-@="用 SublimeText3 打开"
+@="鐢⊿ublime3鎵撳紑"
 "Icon"="D:\\Program Files\\Sublime Text\\sublime_text.exe,0"
 
 [HKEY_CLASSES_ROOT\Directory\shell\SublimeText3\command]
