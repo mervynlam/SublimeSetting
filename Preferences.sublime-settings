@@ -6,10 +6,12 @@
 	[
 		"no_italic"
 	],
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Markdown",
+		"Package Control",
 		"Vintage"
 	],
-	"show_encoding": true
+	"show_encoding": true,
 }
